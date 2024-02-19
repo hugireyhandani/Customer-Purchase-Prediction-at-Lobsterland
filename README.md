@@ -1,4 +1,4 @@
-# Customer Purchase Prediction 
+# Customer Purchase Prediction at Lobsterland
 
 ## Introduction
 This Project revolves around a classification problem aimed at predicting whether customers will purchase a package based on the `telco_churn.csv` dataset.
