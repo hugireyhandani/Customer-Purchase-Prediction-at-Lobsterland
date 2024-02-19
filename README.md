@@ -19,8 +19,8 @@ The project's primary goal is to apply machine learning techniques to predict cu
 - Comparative analysis of logistic regression and random forest models in terms of their effectiveness and accuracy.
 - Interpretation of model outputs, including feature importance and predictive accuracy.
 
-## How to Use This Repository
-- Clone the repository to get access to the Jupyter notebooks.
-- The notebooks are self-contained and include both the code and explanations for each step of the analysis.
-- The HTML or PDF file provides a static view of the entire project for easy reference.
+## Key Findings
+- **Model Performance**: Insights into the accuracy and performance metrics of the logistic regression and random forest models.
+- **Feature Importance**: Analysis of which features were most influential in predicting customer behavior.
+- **Comparative Analysis**: A comparison between the logistic regression model and the random forest model in terms of their effectiveness.
 
